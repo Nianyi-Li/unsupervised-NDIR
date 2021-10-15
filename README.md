@@ -4,3 +4,9 @@ Many computer vision problems face difficulties when imaging through turbulent r
 
 <!-- ![teaser](https://user-images.githubusercontent.com/22784070/129606461-13390c92-9e59-4f0f-8fad-e2111e7ada24.png){:height="20%" width="20%"} -->
 <img src="https://user-images.githubusercontent.com/22784070/129606461-13390c92-9e59-4f0f-8fad-e2111e7ada24.png" width="70%" height="70%">
+
+
+
+# Presentation
+https://user-images.githubusercontent.com/22784070/137427510-0ec87af5-6db2-40bb-8691-c4ff3836be5e.mp4
+
