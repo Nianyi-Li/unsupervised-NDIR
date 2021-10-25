@@ -8,6 +8,18 @@ Nianyi Li<sup>3,1</sup>, Simron Thapa<sup>1</sup>, Cameron Whyte<sup>2</sup>, Al
 
 Accepted as poster in ICCV 2021
 
+This repository constains a demo code for our Non-rigid image distortion removal network. Our implementation is in Pytorch.
+### Requirements
+- Pytorch >=1.3
+- Numpy
+- PIL
+- Opencv
+- Jupyter 
+- Scikit-image
+- Tqdm
+- Matplotlib
+- Torch-summary
+
 
 <!-- ![teaser](https://user-images.githubusercontent.com/22784070/129606461-13390c92-9e59-4f0f-8fad-e2111e7ada24.png){:height="20%" width="20%"} -->
 <!--- This isn't commented out 
