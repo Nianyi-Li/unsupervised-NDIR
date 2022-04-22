@@ -2,7 +2,7 @@
 
 ### [**Paper**](https://openaccess.thecvf.com/content/ICCV2021/papers/Li_Unsupervised_Non-Rigid_Image_Distortion_Removal_via_Grid_Deformation_ICCV_2021_paper.pdf) | [**Video**](https://youtu.be/aeJkb5u0Cb8)
 
-Nianyi Li<sup>3,1</sup>, Simron Thapa<sup>1</sup>, Cameron Whyte<sup>2</sup>, Albert Reed<sup>2</sup>, Suren Jayasuriya<sup>2</sup>, Jinwei Ye<sup>1</sup>
+[Nianyi Li](https://nianyil.people.clemson.edu/)<sup>3,1</sup>, Simron Thapa<sup>1</sup>, Cameron Whyte<sup>2</sup>, Albert Reed<sup>2</sup>, Suren Jayasuriya<sup>2</sup>, Jinwei Ye<sup>1</sup>
 
 <sup>1</sup>Louisiana State University,         <sup>2</sup>Arizona State University,         <sup>3</sup>Clemson University
 
